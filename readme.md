@@ -9,17 +9,6 @@ I’ve recreated all the original colours (red, green, black, orange, grey, and 
 
 PS. I’ve also uploaded the original [Sketch](http://www.bohemiancoding.com/sketch/) file so you can customise them to your heart’s desire.
 
-Left‐corner ribbons
----
-
-<ul>
-	<li style='list-style-type: none;'><img src='https://raw.github.com/aral/fork-me-on-github-retina-ribbons/master/images/fork-me-left-old-burgundy@2x.png' style='border: 1px solid #252525; width: 149px; height: 149px;'><textarea style='width: 50%; height:149px; border: none; vertical-align: top; margin-left: 2.5em;'><a href="https://github.com/you"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png" alt="Fork me on GitHub"></a></textarea></li>
-</ul>
-
-Right‐corner ribbons
----
-
-
 About the various image folders
 ---
 
