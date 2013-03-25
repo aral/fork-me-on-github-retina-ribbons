@@ -7,4 +7,14 @@ When I recently added one to the Tally web site, I saw that it was unacceptably 
 
 I’ve also uploaded the original [Sketch](http://www.bohemiancoding.com/sketch/) file so you can customise them to your heart’s desire.
 
+About the various image folders
+---
+
+```/images``` These are the images you should use. They’ve been through ImageOptim and [tinypng.org](http://tinypng.org) (lossy compression that maintains the alpha channel). Sample size difference with uncompressed (52kb → 18kb). Overall, the final images are 64% smaller than the original uncompressed exports from Sketch.
+
+```/images-imageoptim``` The images in this folder have only undergone non‐lossy compression.
+
+```/images-uncompressed``` These are the original exports from Sketch.
+
+
 Copyright &copy; 2013 Aral Balkan. Released under a [Creative Commons Attribution 2.0: England &amp; Wales](http://creativecommons.org/licenses/by/2.0/uk/) license.
