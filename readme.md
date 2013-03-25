@@ -3,9 +3,22 @@ Fork me on GitHub Retina Ribbons
 
 It’s been over four years since Tom Preston‐Werner released his iconic [‘Fork me on GitHub’ banners](https://github.com/blog/273-github-ribbons) that we all know and love.
 
-When I recently added one to the Tally web site, I saw that it was unacceptably blurry our high‐resolution displays (especially on my iPad) and decided to create a Retina version. So I though, heck, if I’m going to create one for myself, I might as well create a whole bunch so everyone can use them. I recreated all the original colours (red, green, black, orange, grey, and white) and added a few more to boot.
+When I recently added one to the web site for [Tally](http://tally.jit.su), [a new template engine for Node.js and browsers](http://tally.jit.su) that I’m working on (it’s very alpha at the moment). Needless to say, the logo was unacceptably blurry on high‐resolution displays (especially on my iPad) and so I decided to create a Retina version and I thought, heck, if I’m going to create one for myself, I might as well create a whole bunch so everyone else can use them too.
 
-I’ve also uploaded the original [Sketch](http://www.bohemiancoding.com/sketch/) file so you can customise them to your heart’s desire.
+I’ve recreated all the original colours (red, green, black, orange, grey, and white) and added a few more to boot. I hope you find them useful.
+
+PS. I’ve also uploaded the original [Sketch](http://www.bohemiancoding.com/sketch/) file so you can customise them to your heart’s desire.
+
+Left‐corner ribbons
+---
+
+<ul>
+	<li style='list-style-type: none;'><img src='https://raw.github.com/aral/fork-me-on-github-retina-ribbons/master/images/fork-me-left-old-burgundy@2x.png' style='border: 1px solid #252525; width: 149px; height: 149px;'><textarea style='width: 50%; height:149px; border: none; vertical-align: top; margin-left: 2.5em;'><a href="https://github.com/you"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png" alt="Fork me on GitHub"></a></textarea></li>
+</ul>
+
+Right‐corner ribbons
+---
+
 
 About the various image folders
 ---
