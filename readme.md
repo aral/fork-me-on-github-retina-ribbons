@@ -1,7 +1,7 @@
 Fork me on GitHub Retina Ribbons
 ===
 
-Over four years ago, Tom Preston‐Werner released his iconic [‘Fork me on GitHub’ banners](https://github.com/blog/273-github-ribbons) that we all know and love. I thought I’d update them for high‐resolution displays after adding one to [Tally](http://tally.jit.su) — [the new template engine I’m working on for Node.js and browsers](http://tally.jit.su) — and seeing that it was blurry on my iPad.
+Over four years ago, [Tom Preston‐Werner](https://twitter.com/mojombo) released his iconic [‘Fork me on GitHub’ banners](https://github.com/blog/273-github-ribbons) that we all know and love. I thought I’d update them for high‐resolution displays after adding one to [Tally](http://tally.jit.su) — [the new template engine I’m working on for Node.js and browsers](http://tally.jit.su) — and seeing that it was blurry on my iPad.
 
 I’ve recreated all the original colours (red, green, black, orange, grey, and white) and added a few new ones to boot. I hope you find them useful.
 
