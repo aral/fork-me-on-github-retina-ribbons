@@ -5,6 +5,8 @@ Over four years ago, [Tom Preston‐Werner](https://twitter.com/mojombo) release
 
 I’ve recreated all the original colours (red, green, black, orange, grey, and white) and added a few new ones to boot. I hope you find them useful.
 
+[Find all the banners and copy/paste code snippets on my blog post.](http://aralbalkan.com/scribbles/fork-me-on-github-retina-ribbons/)
+
 PS. I’ve also uploaded the original [Sketch](http://www.bohemiancoding.com/sketch/) file so you can customise them to your heart’s desire.
 
 About the various image folders
